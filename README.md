@@ -1,2 +1,0 @@
-# edtecnova
-Learning Tools 
